@@ -18,12 +18,12 @@ Aplikasi ini merupakan bagian dari tema **Sustainable Living**, sub-tema **Slow 
 ## Anggota Kelompok & Pembagian Modul
 
 | No | Modul | Nama | NPM |
----------------------------
+|---|---|---|---|
 | 1 | Landing Page, Autentikasi, Profil Mahasiswa | Zhillan Baniaksa | 2506637174 |
-| 2 | Katalog Brand & Referensi Harga (Public API) | _(nama)_ | _(NPM)_ |
+| 2 | Katalog Brand & Referensi Harga (Public API) | Abraham Imanuel | 2506554890 |
 | 3 | Lapak Thrift: Listing & Inventory Management | Maglio Razzy | 2506553616 |
 | 4 | Discovery, Filter & Wishlist | Kevin Nicholas Santoso | 2506637041 |
-| 5 | Transaksi COD, Ulasan & Dampak Lingkungan | _(nama)_ | _(NPM)_ |
+| 5 | Transaksi COD, Ulasan & Dampak Lingkungan | Nanda Athaillah Nurano | 2506557425 |
 
 ## Daftar Modul
 
