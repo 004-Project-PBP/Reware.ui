@@ -64,3 +64,7 @@ Aplikasi ini merupakan bagian dari tema **Sustainable Living**, sub-tema **Slow 
 ## Repository
 
 - **Link Git:** (https://github.com/004-Project-PBP/Reware.ui)
+
+## Modules Division
+
+- **Link Sheet** (https://docs.google.com/spreadsheets/d/1eij5laoQNBbDALTZZCPAx-dQcgcHD6lEt02KRg633ac/edit?usp=sharing)
